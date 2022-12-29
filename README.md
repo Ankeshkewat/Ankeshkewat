@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankeshkewat&label=Profile%20views&color=0e75b6&style=flat" alt="ankeshkewat" /> </p>
 
-- 🌱 I’m currently learning **MongoDB, and more about node.js**
+- 🌱 I’m currently learning **MongoDB, and more about Node.js**
 
 - 👨‍💻 All of my projects are available at [Ankeshkewat.github.io](Ankeshkewat.github.io)
 
