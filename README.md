@@ -44,10 +44,9 @@ Hands-on experience in developing servers using  Node.js, Express.js, and Mongoo
 
 </td></tr></table>  
 
-<br/>  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ankeshkewat)
 
  <br/>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankeshkewat)](https://git.io/streak-stats)
 
 <br/>  
 
