@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Ankesh Kewat!  
   
 
-<a target="_blank" href="https://linkedin.com/in/ankesh-kewat-174147239">
+<a href="https://linkedin.com/in/ankesh-kewat-174147239">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a target="_blank" href="https://github.com/Ankeshkewat" >
+<a href="https://github.com/Ankeshkewat" >
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white target="_blank" alt=github style="margin-bottom: 5px;" />
 </a>  
   
@@ -62,4 +62,6 @@ Hands-on experience in developing servers using  Node.js, Express.js, and Mongoo
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Ankeshkewat&&style=flat-square)  
+
+
   
