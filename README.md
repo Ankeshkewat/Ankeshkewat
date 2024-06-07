@@ -12,7 +12,7 @@
   
 ### Glad to see you here!  
 An aspiring full stack web developer proficient in Node.js and backend technologies.
-Hands-on experience of working  in teams and collaborate well. Looking forward to work in a company to improve skills and contribute significantly to the organization.
+Hands-on experience of working  in teams and collaborate well. Working for AVRL as a SDE1.
   
 - 🌱 I’m currently learning more about Backend technologies.
 
