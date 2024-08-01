@@ -11,7 +11,7 @@
 </a>  
   
 ### Glad to see you here!  
-An aspiring full stack web developer proficient in Node.js and backend technologies.
+A full stack web developer proficient in Node.js and backend technologies.
 Hands-on experience of working  in teams and collaborate well. Working for AVRL as a SDE1.
   
 - 🌱 I’m currently learning more about Backend technologies.
